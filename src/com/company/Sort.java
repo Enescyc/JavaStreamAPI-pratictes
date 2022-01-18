@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class Sıralama {
+public class Sort {
     public static void main(String[] args) {
 
         Student st1 = new Student(181002054, "Enes", "Şahin");
